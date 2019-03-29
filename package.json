@@ -1,0 +1,26 @@
+{
+  "name": "elsa-httprequest",
+  "version": "1.0.0",
+  "description": "javascript http client for doing http request",
+  "main": "xhr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngahane/Elsa-HttpRequest.git"
+  },
+  "keywords": [
+    "http",
+    "request"
+  ],
+  "author": "NGAHANE STEVE WILLIAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngahane/Elsa-HttpRequest/issues"
+  },
+  "homepage": "https://github.com/ngahane/Elsa-HttpRequest#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
