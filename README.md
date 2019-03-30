@@ -1,2 +1,2 @@
 # Elsa-HttpRequest
-Elsa-HttpRequest is javascript library for doing Http Request. He can use with Javascript and NodeJs
+Elsa-HttpRequest is a javascript library able to test your requests Http. it can be used with Javascript and with NodeJs
